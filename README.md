@@ -7,7 +7,8 @@ The two neural networks that make up a GAN are referred to as the generator and 
 
 This Repo contains some *COoL* GANs like
 1) Image GANs<br />
-  a) Fashion GANs<br />
-  b) Handwritten Digits GANs<br />
+  a) Fashion GAN<br />
+  b) Handwritten Digits GAN<br />
+  C) Cartoon GAN<br />
 2) Music GANs / with the use of magenta lib (https://magenta.tensorflow.org/)
 3) Style GANs
