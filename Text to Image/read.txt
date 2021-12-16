@@ -1,0 +1,3 @@
+1) https://openai.com/blog/dall-e/
+2) https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f
+

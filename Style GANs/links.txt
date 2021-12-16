@@ -1,0 +1,7 @@
+1) Style GANs
+    https://nvlabs.github.io/stylegan2/versions.html
+2) Style Transfer 
+    https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb
+    #change tf version to run (1.)
+3) https://towardsdatascience.com/12-colab-notebooks-that-matter-e14ce1e3bdd0
+4) Look for GPT 3 its peverful
