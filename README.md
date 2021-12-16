@@ -12,3 +12,4 @@ This Repo contains some *COoL* GANs like
   C) Cartoon GAN<br />
 2) Music GANs / with the use of magenta lib (https://magenta.tensorflow.org/)
 3) Style GANs
+4) Text to image (GPT-3 is an unsupervised learning algorithm using Generative Adversarial Network :)) ) 
